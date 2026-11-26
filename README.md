@@ -1,5 +1,5 @@
 
-# NutriTrack Pscilians — Aplikasi Pelacak Nutrisi dan Kesetaraan Makanan
+# NutriTrack Pacilians — Aplikasi Pelacak Nutrisi dan Kesetaraan Makanan
 
 Anggota Kelompok
 - Blessing Bara Christian (NPM : 2606887582)
