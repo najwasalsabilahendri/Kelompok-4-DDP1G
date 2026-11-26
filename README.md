@@ -3,8 +3,8 @@
 
 Anggota Kelompok
 - Blessing Bara Christian (NPM : 2606887582)
--
--
+- Najwa Salsabila Hendri (NPM : 2606859881)
+- 
 
 Aplikasi pelacak nutrisi dan kesetaraan makanan berbasis **React, Tailwind CSS, dan Recharts** yang membantu pengguna memantau asupan kalori, menghitung kebutuhan nutrisi harian, serta menemukan alternatif makanan Indonesia berdasarkan kandungan makronutrisi.
 
