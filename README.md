@@ -1,5 +1,10 @@
 
-# NutriTrack Indonesia — Aplikasi Pelacak Nutrisi dan Kesetaraan Makanan
+# NutriTrack Pscilians — Aplikasi Pelacak Nutrisi dan Kesetaraan Makanan
+
+Anggota Kelompok
+- Blessing Bara Christian (NPM : 2606887582)
+-
+-
 
 Aplikasi pelacak nutrisi dan kesetaraan makanan berbasis **React, Tailwind CSS, dan Recharts** yang membantu pengguna memantau asupan kalori, menghitung kebutuhan nutrisi harian, serta menemukan alternatif makanan Indonesia berdasarkan kandungan makronutrisi.
 
